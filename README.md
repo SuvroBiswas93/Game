@@ -1,2 +1,2 @@
-link to a video demonstrating launch with 3 and 7 parameters, launch with incorrect parameters (repeated or even number, one or no),
-help table generation (on 5 parameters), choice of the user move, output of results;
+Google drive link of video:
+https://drive.google.com/file/d/1z3I8xKzW5asRcyvJzKoSZOEsZNsiWlhc/view?usp=sharing
