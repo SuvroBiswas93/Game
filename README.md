@@ -1,6 +1,10 @@
+
+
 # Rock Paper Scissors
 
 Please follow the instruction below to run this project
+
+Video link: https://drive.google.com/file/d/1z3I8xKzW5asRcyvJzKoSZOEsZNsiWlhc/view?usp=sharing
 
 ## Run Locally
 
